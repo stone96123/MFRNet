@@ -60,12 +60,10 @@ python test_net.py --config_file configs/MSVR310/MFRNet.yml --model_path MSVR310
 ## Citation
 Please kindly cite this paper in your publications if it helps your research:
 ```bash
-@inproceedings{tan2022dynamic,
-  title={Multi-Modal Object Re-Identification via Sparse Mixture-of-Experts},
-  author={Yingying, Feng and Jie, Li and Chi, Xie and Lei, Tan and Jiayi, Ji},
-  booktitle={},
-  pages={},
-  year={2025}
+@inproceedings{fengmulti,
+  title={Multi-Modal Object Re-identification via Sparse Mixture-of-Experts},
+  author={Feng, Yingying and Li, Jie and Xie, Chi and Tan, Lei and Ji, Jiayi},
+  booktitle={Forty-second International Conference on Machine Learning}
 }
 ```
 
