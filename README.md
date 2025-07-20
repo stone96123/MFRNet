@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### Prepare ViT Pre-trained Models
 
-You need to download the pretrained CLIP model : [ViT-B-16](https://pan.baidu.com/s/1YPhaL0YgpI-TQ_pSzXHRKw Code：52fu)
+You need to download the pretrained CLIP model: [ViT-B-16](https://pan.baidu.com/s/1YPhaL0YgpI-TQ_pSzXHRKw Code：52fu)
 
 ## Training
 
