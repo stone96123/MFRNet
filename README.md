@@ -75,4 +75,4 @@ Our code is based on [TOP-ReID](https://github.com/924973292/TOP-ReID)[1]
 
 ## Contact
 
-If you have any question, please feel free to contact us. E-mail: [tanlei@stu.xmu.edu.cn](mailto:tanlei@stu.xmu.edu.cn)
+If you have any question, please feel free to contact us. E-mail: [tanlei@stu.xmu.edu.cn](mailto:lei.tan@nus.edu.sg)
