@@ -2,7 +2,7 @@
 ![PyTorch ==1.12.0](https://img.shields.io/badge/PyTorch-==1.12.0-blue.svg)
 
 # [ICML2025] Multi-Modal Object Re-Identification via Sparse Mixture-of-Experts
-The official repository for Multi-Modal Object Re-Identification via Sparse Mixture-of-Experts [[pdf]](https://arxiv.org/pdf/?.pdf)
+The official repository for Multi-Modal Object Re-Identification via Sparse Mixture-of-Experts [[pdf]](https://openreview.net/pdf?id=uvFE58mSnR)
 
 ### Prepare Datasets
 
