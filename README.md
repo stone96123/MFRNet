@@ -9,7 +9,7 @@ The official repository for Multi-Modal Object Re-Identification via Sparse Mixt
 ```bash
 mkdir data
 ```
-Download the person datasets [RGBNT201](https://drive.google.com/drive/folders/1EscBadX-wMAT56_It5lXY-S3-b5nK1wH), [RGBNT100](https://pan.baidu.com/s/1xqqh7N4Lctm3RcUdskG0Ug code：rjin), and the [MSVR310](https://drive.google.com/file/d/1IxI-fGiluPO_Ies6YjDHeTEuVYhFdYwD/view?usp=drive_link).
+Download the person datasets [RGBNT201](https://drive.google.com/drive/folders/1EscBadX-wMAT56_It5lXY-S3-b5nK1wH), [RGBNT100](https://pan.baidu.com/s/1xqqh7N4Lctm3RcUdskG0Ug) (code：rjin), and the [MSVR310](https://drive.google.com/file/d/1IxI-fGiluPO_Ies6YjDHeTEuVYhFdYwD/view?usp=drive_link).
 
 ### Installation
 
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### Prepare ViT Pre-trained Models
 
-You need to download the pretrained CLIP model: [ViT-B-16](https://pan.baidu.com/s/1YPhaL0YgpI-TQ_pSzXHRKw Code：52fu)
+You need to download the pretrained CLIP model: [ViT-B-16](https://pan.baidu.com/s/1YPhaL0YgpI-TQ_pSzXHRKw) (Code：52fu)
 
 ## Training
 
